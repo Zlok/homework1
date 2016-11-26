@@ -22,6 +22,11 @@ public final class CalculatorActivity extends Activity {
         if (savedInstanceState != null) {
             state = savedInstanceState.getString("state");
             result = savedInstanceState.getDouble("result");
+        } else {
+            state = "";
+            result = 0.0;
+            screen.setText("0");
+            return;
         }
         screen.setText(state);
     }
@@ -38,15 +43,15 @@ public final class CalculatorActivity extends Activity {
         super.onRestoreInstanceState(savedInstanceState);
         if (savedInstanceState == null)
             return;
-        if (state != "")
-            screen.setText(savedInstanceState.getString("state"));
-        else
-            screen.setText(savedInstanceState.getString("result"));
+        state = savedInstanceState.getString("state");
+        result = savedInstanceState.getDouble("result");
+        screen.setText(state);
     }
 
     public void clearClick(View view) {
         screen.setText("0");
         state = "";
+        result = 0.0;
     }
 
     public void click(View view) {
