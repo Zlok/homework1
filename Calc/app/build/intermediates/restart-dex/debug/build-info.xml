@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="11768647955897"
+    token="-2288520321605138393"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="659" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="124" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="6535430134209"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="10476823827511"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="11098191478529"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="11768647955897"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="40488349678068"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

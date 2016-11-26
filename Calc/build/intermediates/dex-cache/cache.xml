@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_b2193eeefc03f3ba8ba9877aca32417123d4172f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_4b0c00ebad60b6a011387630aab35085024d9eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_2bc979f17aecadad0b467dcadb138e25f2a91423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="86602b40a2493f7e143da51ae3310482140fdbfb">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52e720c9e1da86d6ade316e083cb749dd527a7e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ccf33b6012746a9e201270ed7b25d671c6aef68c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3506ebf03f6dcecf8cb3b2b87442cd3f97b04485/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ce5dc4b5bc80fa9a9f196e2b507af3e0f23a1abb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_e8ae5f03433fc299c6052fef4e861ddd6d093c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dd170d5bed9761b096dd0aa37970540d1a4038ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ba5dd51fc4bb64bf7de768e50eb69ef5479d20ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_1af5c4a87fb069af912523270debfb07952a2539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_8f1e80cd29b1ebe2c18a11fbfdf82ce789efc9d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_7b8b278fba00ea8a862503383bd0d2eab779ae08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_43327813e59ce4fb29d91cc52eae21058dab84fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a72ca5148481d4503ae1d74be66b3667fb6dd140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17c2ad764f9cd62bcf9119376dcbb25b33cb664a">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8263868e4c99d2c2c212eb1bc0e91c7522a77a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_52fa320718df258bb13588f296c7a8004f6e8909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_cd4681ddd1859ef54218f17cb8c5f3c0d71b731e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_4cebdb0734e7429812de0aead871cd0d03e88b0f/classes.dex" />
+    </item>
+
+</items>

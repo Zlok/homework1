@@ -1,0 +1,7 @@
+#Sat Nov 26 22:50:00 MSK 2016
+base.0=/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8263868e4c99d2c2c212eb1bc0e91c7522a77a00
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52e720c9e1da86d6ade316e083cb749dd527a7e4/classes.dex
+base.1=/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52e720c9e1da86d6ade316e083cb749dd527a7e4
+file.0=/home/appolinariya/AndroidStudioProjects/Android-2016/homework1/Calc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8263868e4c99d2c2c212eb1bc0e91c7522a77a00/classes.dex

@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Calc</string>
+    <string name="Number0">0</string>
+    <string name="Number1">1</string>
+    <string name="Number2">2</string>
+    <string name="Number3">3</string>
+    <string name="Number4">4</string>
+    <string name="Number5">5</string>
+    <string name="Number6">6</string>
+    <string name="Number7">7</string>
+    <string name="Number8">8</string>
+    <string name="Number9">9</string>
+    <string name="Op_add">+</string>
+    <string name="Op_sub">-</string>
+    <string name="Op_mul">*</string>
+    <string name="Op_div">/</string>
+    <string name="Op_equal">=</string>
+    <string name="point">.</string>
+    <string name="C">C</string>
 </resources>
