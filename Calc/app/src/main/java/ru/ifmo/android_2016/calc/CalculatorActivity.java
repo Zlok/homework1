@@ -144,6 +144,7 @@ public final class CalculatorActivity extends Activity {
             for (i = tmp - 2; i > j; i--) {
                 right = right / 10 + (s.charAt(i) - '0');
             }
+            right = right / 10;
             if (j == 0) {
                 return right;
             } else {
